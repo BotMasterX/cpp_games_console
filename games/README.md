@@ -5,6 +5,7 @@ trebuie sa faceti un fisier cu numele "date.in" in care sa introduceti numarul d
 
 iesi_din_vaslui:
 trebuie sa alegeti calea cea mai scurta cale de la start pana la final (de la pozitia initiala a lui X pana la O) si sa parcurgeri cu W, A, S, D fara a da de V (acestia fiind violatori), jocul are 100 de levele (pentru cei plictisiti:))
+
 snake_game: in lucru
 
 x_and_o:
