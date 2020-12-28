@@ -8,3 +8,6 @@ trebuie sa alegeti calea cea mai scurta cale de la start pana la final (de la po
 
 x_and_o:
 aveti toate indicatiile pe consola, incercati sa aveti rabdare si sa nu apasati de mai multe ori in acelasi timp :)
+
+retro_snake:
+aveti totu acolo
